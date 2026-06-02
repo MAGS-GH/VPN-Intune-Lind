@@ -23,11 +23,11 @@
     # ============================================================
 
     # Navn på VPN-forbindelsen som vises i FortiClient-appen.
-    VpnName        = 'Kunde VPN'
+    VpnName        = 'Lind'
 
     # Beskrivelse som vises når forbindelsen redigeres i appen.
-    VpnDescription = 'Kunde SSLVPN'
+    VpnDescription = 'Lind'
 
     # Adresse til SSL-VPN-gateway (host:port).
-    VpnServer      = 'vpn.kunde.example:443'
+    VpnServer      = 'vpn.Lind.dk:443'
 }
